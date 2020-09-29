@@ -386,9 +386,9 @@ class LabelTool():
            return
         # get image list
         self.imageDir = os.path.join(r'./Images', '%s' %(self.category))
-        self.imageList = glob.glob(os.path.join(self.imageDir, '*.jpeg'))
+        self.imageList = glob.glob(os.path.join(self.imageDir, '*.jpg'))
         if len(self.imageList) == 0:
-            print('No .jpeg images found in the specified dir!')
+            print('No .jpg images found in the specified dir!')
             tkMessageBox.showerror("Error!", message = "No .jpg images found in the specified dir!")
             return
 
