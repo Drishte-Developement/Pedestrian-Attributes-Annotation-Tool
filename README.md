@@ -23,13 +23,20 @@
 2.Run the Python Installer once downloaded. <br/>
 3.Select Install Now – the recommended installation options. <br/>
 
-![Installation](https://github.com/Drishte-Developement/Pedestrian-Attributes-Annotation-Tool/blob/master/python_Setup1.png?raw=true "Setup")
+![Installation](https://github.com/Drishte-Developement/Pedestrian-Attributes-Annotation-Tool/blob/master/python_Setup1.png?raw=true "Setup Python")
 
 4.The next dialog will prompt you to select whether to Disable path length limit. No need to do it though it will allow Python to bypass the 260-character MAX_PATH limit. Effectively, it will enable Python to use long path names.Select **Close**.<br/>
+
+![Installation](https://github.com/Drishte-Developement/Pedestrian-Attributes-Annotation-Tool/blob/master/python_Setup2.png?raw=true "Setup Python")
+
 5.Open cmd and type: **python**. It should open python compiler in cmd if every thing installed correctly. Exit the terminal using **exit()** command.<br/>
+
+![Installation](https://github.com/Drishte-Developement/Pedestrian-Attributes-Annotation-Tool/blob/master/python_Setup3.png?raw=true "Python")
 
 * Tkinter
 6. Install pillow using : **pip install Pillow**
+
+![Installation](https://github.com/Drishte-Developement/Pedestrian-Attributes-Annotation-Tool/blob/master/python_Setup4.png?raw=true "Setup Pillow")
 
 # How to use this tool?
 
