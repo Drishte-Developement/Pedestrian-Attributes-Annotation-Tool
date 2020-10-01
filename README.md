@@ -10,21 +10,21 @@
 
 # Setup for linux(ununtu):
 
-* sudo apt install python3-pip
+* sudo apt install python3-pip <br/>
 
-* sudo apt-get install python3-tk
+* sudo apt-get install python3-tk <br/>
 
-* pip3 install Pillow
+* pip3 install Pillow 
 
 # Setup for Windows
 
-* Python3 
-1.Download windows compatible python3 exe file from here: https://www.python.org/downloads/
-2.Run the Python Installer once downloaded. 
-3.Select Install Now – the recommended installation options.
+* Python3 <br/>
+1.Download windows compatible python3 exe file from here: https://www.python.org/downloads/<br/>
+2.Run the Python Installer once downloaded. <br/>
+3.Select Install Now – the recommended installation options. <br/>
 
-4.The next dialog will prompt you to select whether to Disable path length limit. No need to do it though it will allow Python to bypass the 260-character MAX_PATH limit. Effectively, it will enable Python to use long path names.
-5.Open cmd and type: **python**. It should open python compiler in cmd if every thing installed correctly. Exit the terminal using **exit()** command.
+4.The next dialog will prompt you to select whether to Disable path length limit. No need to do it though it will allow Python to bypass the 260-character MAX_PATH limit. Effectively, it will enable Python to use long path names.<br/>
+5.Open cmd and type: **python**. It should open python compiler in cmd if every thing installed correctly. Exit the terminal using **exit()** command.<br/>
 
 * Tkinter
 6. Install pillow using : **pip install Pillow**
