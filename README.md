@@ -23,8 +23,6 @@
 2.Run the Python Installer once downloaded. 
 3.Select Install Now – the recommended installation options.
 
-
-
 4.The next dialog will prompt you to select whether to Disable path length limit. No need to do it though it will allow Python to bypass the 260-character MAX_PATH limit. Effectively, it will enable Python to use long path names.
 5.Open cmd and type: **python**. It should open python compiler in cmd if every thing installed correctly. Exit the terminal using **exit()** command.
 
